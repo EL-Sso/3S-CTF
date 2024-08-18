@@ -74,59 +74,7 @@ CHAI797인가..?
 
 ![img](https://github.com/user-attachments/assets/4047e2a0-f078-4559-a540-ace6e85148c9)
 
-![img](https://github.com/user-attachments/assets/592789dc-77fc-49e7-91aa-e11965be91af)
-첫번째 파일 내용을 넣으니 풀렸다
-
-
-
-![img](https://github.com/user-attachments/assets/05447ba2-de09-4e93-ae27-16ffa65ca45f)
-
-
-
-
-![img](https://github.com/user-attachments/assets/cc8ab28a-89c5-4460-8576-e16750e2286d)
-
-
-hxd로 까보니
-![img](https://github.com/user-attachments/assets/db22e136-d42e-4956-b829-5846c9ce20f6)
-
-
-
-시작부터 틀린건 아니다.
-![img](https://github.com/user-attachments/assets/cdef98de-0d65-4842-8595-d8e0b8e53f63)
-
-
-
-
-png 파일 꺼내봐도 아닐 것 같긴 한데 일단 png 파일 먼저 꺼내보면
-
-
-![img](https://github.com/user-attachments/assets/9da9f2b2-e7fe-4ece-b7f2-ca3a927c3ae3)
-
-
-
-이건 아니고
-
-보다보니까 PK 파일 형식들이 있는 것 같아서
-
-![img](https://github.com/user-attachments/assets/62d625e5-6af0-4b33-a0c1-1f9287af2771)
-
-
-
-
-헤더 3개
-
-![img](https://github.com/user-attachments/assets/7cda40fb-b8fa-439d-9e73-6a3a1279496b)
-
-
-푸터 2개를 발견했다.
-
-![img](https://github.com/user-attachments/assets/76e370b4-5862-442b-abd8-e85db60ceee9)
-
-
-PK파일 하나 카빙했더니 이런다.
-
-다른거 하나 더..?
+![img](https://github.com/use면
 
 ![img](https://github.com/user-attachments/assets/927b97b8-8785-4efa-881a-eeffaa6d4ab3)
 
@@ -175,4 +123,4 @@ Guess This!!
 
 2930 2023 9108 7317 8184 1520 2638 8862 0380 5320
 
-인것을 알 수 있는데 이걸 16진수로 돌려보고 아스키로 해봐도 플래그는 아니다.
+인것을 알 수 있는데 이걸 16진수로 돌려보고 아스키로도 돌려봐도 플래그는 아니다. 
